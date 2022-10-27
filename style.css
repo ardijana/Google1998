@@ -1,0 +1,47 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.box2 {
+    background-color: whitesmoke;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 20px;
+}
+
+#box1 {
+    display: flex;
+    flex-wrap: nowrap;
+    text-align: center;
+}
+
+.first {
+    background-color: blanchedalmond;
+    width: 45%;
+    margin: 2px;
+    height: 120px;
+}
+
+.second {
+    background-color: burlywood;
+    width: 20%;
+    margin: 2px;
+    height: 120px;
+}
+
+.third {
+    background-color: peachpuff;
+    width: 55%;
+    margin: 2px;
+    height: 120px;
+}
+
+.footer {
+    text-align: center;
+    font-size: 20px;
+    padding-top: 15px;
+}
+
